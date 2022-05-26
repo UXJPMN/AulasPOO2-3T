@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c3dae31-09c9-4e5e-8aac-27907eaa773a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AulasPOO2-3T.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploClovis/AulaInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploClovis/IBoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploClovis/IEnemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploClovis/IMerchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploClovis/MerchantClovis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/AulaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/IMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/IMoviePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/IMusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/IPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/MoviePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaInterfacesExemploMediaPlayer/MusicPlayer.java" afterDir="false" />
+    <list default="true" id="9c3dae31-09c9-4e5e-8aac-27907eaa773a" name="Changes" comment="Aula 01">
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/CadastroProdutosDigitais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/DigitalProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/LocalCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaAbstracao/VirtualCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,8 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653343770914</updated>
-      <workItem from="1653343772727" duration="5895000" />
+      <workItem from="1653343772727" duration="6199000" />
+      <workItem from="1653519914918" duration="3317000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula 01">
+      <created>1653353048776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653353048776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 01" />
   </component>
 </project>
